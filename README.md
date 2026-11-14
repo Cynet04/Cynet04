@@ -4,11 +4,7 @@
 
 <br>
 
-<img src="./assets/badges/surrealism.svg" alt="Surrealism" height="26">
-<img src="./assets/badges/classical-art.svg" alt="Classical art" height="26">
-<img src="./assets/badges/romanticism.svg" alt="Romanticism" height="26">
-<img src="./assets/badges/dark-academia.svg" alt="Dark academia" height="26">
-<img src="./assets/badges/mythology.svg" alt="Mythology" height="26">
+<img src="./assets/interests.svg" alt="Surrealism, Classical art, Romanticism, Dark academia, Mythology" width="600">
 
 <br>
 
@@ -39,10 +35,11 @@ I am drawn to surrealism, classical art, romanticism, dark academia and mytholog
 | Section | What it holds |
 | :-: | :-: |
 | [Scriptorium](#scriptorium) | The projects, with language and focus |
-| [Instruments](#instruments) | The tools and languages I work with |
+| [Armoury](#armoury) | Web, cybersecurity, networking and systems skills |
 | [Fields of study](#fields-of-study) | Where my attention goes |
 | [Where to begin](#where-to-begin) | A suggested reading order |
 | [Correspondence](#correspondence) | How to reach me |
+| [Horologium](#horologium) | The visit counter |
 
 <img src="./assets/frame.svg" alt="" width="80%">
 
@@ -69,27 +66,79 @@ I am drawn to surrealism, classical art, romanticism, dark academia and mytholog
 
 </div>
 
-<h2 align="center">Instruments</h2>
+<h2 align="center">Armoury</h2>
 
-<p align="center"><i>What the work is made with.</i></p>
+<p align="center"><i>Tools of the trade, grouped by field.</i></p>
 
 <div align="center">
 
-<a href="https://github.com/Cynet04?tab=repositories&language=javascript"><img src="https://img.shields.io/badge/Language-JavaScript-6e1f2b?style=flat-square&labelColor=110f0d" alt="JavaScript repositories"></a>
-<a href="https://github.com/Cynet04?tab=repositories&language=css"><img src="https://img.shields.io/badge/Language-CSS-6e1f2b?style=flat-square&labelColor=110f0d" alt="CSS repositories"></a>
-<a href="https://github.com/s4ntrx/My-Windows-Cheat-sheet"><img src="https://img.shields.io/badge/Shell-Windows_command_line-6e1f2b?style=flat-square&labelColor=110f0d" alt="Windows command line"></a>
-<a href="https://github.com/Cynet04?tab=achievements"><img src="https://img.shields.io/badge/Workflow-Git_and_pull_requests-6e1f2b?style=flat-square&labelColor=110f0d" alt="Git and pull requests"></a>
-
-<br>
-
 <img src="./assets/frame.svg" alt="" width="80%">
 
-| Instrument | Seen in |
-| :-: | :-: |
-| JavaScript | Phishing-Dashboard, Facebook-Clone, Instagram-Clone, Tiktok-Clone |
-| CSS | LinkedIn-Clone and the styling across the interface projects |
-| Windows command line | My-Windows-Cheat-sheet |
-| Git and pull requests | Collaborative work, recognised by the Pull Shark achievement on this profile |
+<h3 align="center">Web</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/HTML-6e1f2b?style=flat-square&logo=html5&logoColor=e4d8bd" alt="HTML">
+<img src="https://img.shields.io/badge/CSS-6e1f2b?style=flat-square&logo=css3&logoColor=e4d8bd" alt="CSS">
+<img src="https://img.shields.io/badge/JavaScript-6e1f2b?style=flat-square&logo=javascript&logoColor=e4d8bd" alt="JavaScript">
+<img src="https://img.shields.io/badge/TypeScript-6e1f2b?style=flat-square&logo=typescript&logoColor=e4d8bd" alt="TypeScript">
+<img src="https://img.shields.io/badge/React-6e1f2b?style=flat-square&logo=react&logoColor=e4d8bd" alt="React">
+<img src="https://img.shields.io/badge/Node.js-6e1f2b?style=flat-square&logo=nodedotjs&logoColor=e4d8bd" alt="Node.js">
+<img src="https://img.shields.io/badge/REST_APIs-6e1f2b?style=flat-square" alt="REST APIs">
+<img src="https://img.shields.io/badge/Responsive_design-6e1f2b?style=flat-square" alt="Responsive design">
+<img src="https://img.shields.io/badge/Git-6e1f2b?style=flat-square&logo=git&logoColor=e4d8bd" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-6e1f2b?style=flat-square&logo=github&logoColor=e4d8bd" alt="GitHub">
+</p>
+
+<h3 align="center">Cybersecurity</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Phishing_analysis-8a6d3b?style=flat-square" alt="Phishing analysis">
+<img src="https://img.shields.io/badge/Incident_response-8a6d3b?style=flat-square" alt="Incident response">
+<img src="https://img.shields.io/badge/Security_auditing-8a6d3b?style=flat-square" alt="Security auditing">
+<img src="https://img.shields.io/badge/Threat_detection-8a6d3b?style=flat-square" alt="Threat detection">
+<img src="https://img.shields.io/badge/Vulnerability_assessment-8a6d3b?style=flat-square" alt="Vulnerability assessment">
+<img src="https://img.shields.io/badge/Penetration_testing-8a6d3b?style=flat-square" alt="Penetration testing">
+<img src="https://img.shields.io/badge/OWASP_Top_10-8a6d3b?style=flat-square&logo=owasp&logoColor=e4d8bd" alt="OWASP Top 10">
+<img src="https://img.shields.io/badge/Burp_Suite-8a6d3b?style=flat-square&logo=burpsuite&logoColor=e4d8bd" alt="Burp Suite">
+<img src="https://img.shields.io/badge/Wireshark-8a6d3b?style=flat-square&logo=wireshark&logoColor=e4d8bd" alt="Wireshark">
+<img src="https://img.shields.io/badge/Nmap-8a6d3b?style=flat-square" alt="Nmap">
+<img src="https://img.shields.io/badge/Metasploit-8a6d3b?style=flat-square&logo=metasploit&logoColor=e4d8bd" alt="Metasploit">
+<img src="https://img.shields.io/badge/Kali_Linux-8a6d3b?style=flat-square&logo=kalilinux&logoColor=e4d8bd" alt="Kali Linux">
+<img src="https://img.shields.io/badge/SIEM-8a6d3b?style=flat-square" alt="SIEM">
+<img src="https://img.shields.io/badge/Digital_forensics-8a6d3b?style=flat-square" alt="Digital forensics">
+<img src="https://img.shields.io/badge/Malware_analysis-8a6d3b?style=flat-square" alt="Malware analysis">
+<img src="https://img.shields.io/badge/Cryptography-8a6d3b?style=flat-square" alt="Cryptography">
+<img src="https://img.shields.io/badge/Social_engineering_awareness-8a6d3b?style=flat-square" alt="Social engineering awareness">
+</p>
+
+<h3 align="center">Networking</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/TCP%2FIP-3f5a4e?style=flat-square" alt="TCP/IP">
+<img src="https://img.shields.io/badge/DNS-3f5a4e?style=flat-square" alt="DNS">
+<img src="https://img.shields.io/badge/DHCP-3f5a4e?style=flat-square" alt="DHCP">
+<img src="https://img.shields.io/badge/HTTP_and_HTTPS-3f5a4e?style=flat-square" alt="HTTP and HTTPS">
+<img src="https://img.shields.io/badge/VPN-3f5a4e?style=flat-square" alt="VPN">
+<img src="https://img.shields.io/badge/Firewalls-3f5a4e?style=flat-square" alt="Firewalls">
+<img src="https://img.shields.io/badge/Subnetting-3f5a4e?style=flat-square" alt="Subnetting">
+<img src="https://img.shields.io/badge/Routing_and_switching-3f5a4e?style=flat-square" alt="Routing and switching">
+<img src="https://img.shields.io/badge/Network_monitoring-3f5a4e?style=flat-square" alt="Network monitoring">
+<img src="https://img.shields.io/badge/Packet_analysis-3f5a4e?style=flat-square" alt="Packet analysis">
+<img src="https://img.shields.io/badge/Wi--Fi_security-3f5a4e?style=flat-square" alt="Wi-Fi security">
+<img src="https://img.shields.io/badge/Cisco-3f5a4e?style=flat-square&logo=cisco&logoColor=e4d8bd" alt="Cisco">
+</p>
+
+<h3 align="center">Systems and scripting</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Linux-5a5347?style=flat-square&logo=linux&logoColor=e4d8bd" alt="Linux">
+<img src="https://img.shields.io/badge/Windows-5a5347?style=flat-square&logo=windows&logoColor=e4d8bd" alt="Windows">
+<img src="https://img.shields.io/badge/PowerShell-5a5347?style=flat-square&logo=powershell&logoColor=e4d8bd" alt="PowerShell">
+<img src="https://img.shields.io/badge/Bash-5a5347?style=flat-square&logo=gnubash&logoColor=e4d8bd" alt="Bash">
+<img src="https://img.shields.io/badge/Python-5a5347?style=flat-square&logo=python&logoColor=e4d8bd" alt="Python">
+<img src="https://img.shields.io/badge/Active_Directory-5a5347?style=flat-square" alt="Active Directory">
+<img src="https://img.shields.io/badge/Windows_command_line-5a5347?style=flat-square" alt="Windows command line">
+</p>
 
 <img src="./assets/frame.svg" alt="" width="80%">
 
@@ -122,6 +171,22 @@ I am drawn to surrealism, classical art, romanticism, dark academia and mytholog
 - Found a bug or a rough edge? Open an issue on the repository concerned.
 - Have a fix or an idea? Send a pull request.
 - Want to follow along? [Follow this profile](https://github.com/Cynet04) or browse the [stars](https://github.com/Cynet04?tab=stars).
+
+<img src="./assets/divider.svg" alt="" width="100%">
+
+<h2 align="center">Horologium</h2>
+
+<p align="center"><i>Visits to this profile, counted as they arrive.</i></p>
+
+<div align="center">
+
+<img src="./assets/clock.svg" alt="A Roman-numeral clock: Visitors to the atelier" width="640">
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Cynet04&label=Visitors&color=6e1f2b&style=for-the-badge" alt="Profile visits">
+
+</div>
 
 <div align="center">
 
