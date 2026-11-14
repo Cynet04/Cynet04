@@ -12,6 +12,12 @@
 
 <br>
 
+<a href="https://github.com/Cynet04?tab=followers"><img src="https://img.shields.io/github/followers/Cynet04?style=flat-square&labelColor=110f0d&label=Followers&color=8a6d3b" alt="GitHub followers"></a>
+<a href="https://github.com/s4ntrx/My-Windows-Cheat-sheet/stargazers"><img src="https://img.shields.io/github/stars/s4ntrx/My-Windows-Cheat-sheet?style=flat-square&labelColor=110f0d&label=Cheat_sheet_stars&color=8a6d3b" alt="Stars on My-Windows-Cheat-sheet"></a>
+<a href="https://github.com/Cynet04?tab=achievements"><img src="https://img.shields.io/badge/Achievement-Pull_Shark-6e1f2b?style=flat-square&labelColor=110f0d" alt="Pull Shark achievement"></a>
+
+<br>
+
 <i>Ars longa, vita brevis.</i>
 
 </div>
@@ -69,10 +75,10 @@ I am drawn to surrealism, classical art, romanticism, dark academia and mytholog
 
 <div align="center">
 
-<img src="./assets/badges/javascript.svg" alt="JavaScript" height="26">
-<img src="./assets/badges/css.svg" alt="CSS" height="26">
-<img src="./assets/badges/windows-cli.svg" alt="Windows command line" height="26">
-<img src="./assets/badges/git.svg" alt="Git and pull requests" height="26">
+<a href="https://github.com/Cynet04?tab=repositories&language=javascript"><img src="https://img.shields.io/badge/Language-JavaScript-6e1f2b?style=flat-square&labelColor=110f0d" alt="JavaScript repositories"></a>
+<a href="https://github.com/Cynet04?tab=repositories&language=css"><img src="https://img.shields.io/badge/Language-CSS-6e1f2b?style=flat-square&labelColor=110f0d" alt="CSS repositories"></a>
+<a href="https://github.com/s4ntrx/My-Windows-Cheat-sheet"><img src="https://img.shields.io/badge/Shell-Windows_command_line-6e1f2b?style=flat-square&labelColor=110f0d" alt="Windows command line"></a>
+<a href="https://github.com/Cynet04?tab=achievements"><img src="https://img.shields.io/badge/Workflow-Git_and_pull_requests-6e1f2b?style=flat-square&labelColor=110f0d" alt="Git and pull requests"></a>
 
 <br>
 
