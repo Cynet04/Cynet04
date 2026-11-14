@@ -26,45 +26,6 @@ I am drawn to surrealism, classical art, romanticism, dark academia and mytholog
 
 <img src="./assets/divider.svg" alt="" width="100%">
 
-<h2 align="center">Index</h2>
-
-<div align="center">
-
-<img src="./assets/frame.svg" alt="" width="80%">
-
-| Section | What it holds |
-| :-: | :-: |
-| [Scriptorium](#scriptorium) | The projects, with language and focus |
-| [Armoury](#armoury) | Web, cybersecurity, networking and systems skills |
-| [Fields of study](#fields-of-study) | Where my attention goes |
-| [Where to begin](#where-to-begin) | A suggested reading order |
-| [Correspondence](#correspondence) | How to reach me |
-| [Horologium](#horologium) | The visit counter |
-
-<img src="./assets/frame.svg" alt="" width="80%">
-
-</div>
-
-<h2 align="center">Scriptorium</h2>
-
-<p align="center"><i>The work, set down in one place.</i></p>
-
-<div align="center">
-
-<img src="./assets/frame.svg" alt="" width="80%">
-
-| Project | Language | Focus |
-| :-: | :-: | :-: |
-| [Phishing-Dashboard](https://github.com/Cynet04/Phishing-Dashboard) | JavaScript | Dashboard interface for phishing exercises |
-| [Facebook-Clone](https://github.com/Cynet04/Facebook-Clone) | JavaScript | Recreating a familiar social interface |
-| [Instagram-Clone](https://github.com/Cynet04/Instagram-Clone) | JavaScript | Feed and profile layout |
-| [Tiktok-Clone](https://github.com/Cynet04/Tiktok-Clone) | JavaScript | Vertical, scrolling video interface |
-| [LinkedIn-Clone](https://github.com/Cynet04/LinkedIn-Clone) | CSS | Professional network layout |
-| [My-Windows-Cheat-sheet](https://github.com/s4ntrx/My-Windows-Cheat-sheet) | Documentation | Windows commands for administration, auditing and incident response (a class assignment by s4ntrx) |
-
-<img src="./assets/frame.svg" alt="" width="80%">
-
-</div>
 
 <h2 align="center">Armoury</h2>
 
@@ -143,6 +104,49 @@ I am drawn to surrealism, classical art, romanticism, dark academia and mytholog
 <img src="./assets/frame.svg" alt="" width="80%">
 
 </div>
+
+
+<h2 align="center">Index</h2>
+
+<div align="center">
+
+<img src="./assets/frame.svg" alt="" width="80%">
+
+| Section | What it holds |
+| :-: | :-: |
+| [Scriptorium](#scriptorium) | The projects, with language and focus |
+| [Armoury](#armoury) | Web, cybersecurity, networking and systems skills |
+| [Fields of study](#fields-of-study) | Where my attention goes |
+| [Where to begin](#where-to-begin) | A suggested reading order |
+| [Correspondence](#correspondence) | How to reach me |
+| [Horologium](#horologium) | The visit counter |
+
+<img src="./assets/frame.svg" alt="" width="80%">
+
+</div>
+
+<h2 align="center">Scriptorium</h2>
+
+<p align="center"><i>The work, set down in one place.</i></p>
+
+<div align="center">
+
+<img src="./assets/frame.svg" alt="" width="80%">
+
+| Project | Language | Focus |
+| :-: | :-: | :-: |
+| [Phishing-Dashboard](https://github.com/Cynet04/Phishing-Dashboard) | JavaScript | Dashboard interface for phishing exercises |
+| [Facebook-Clone](https://github.com/Cynet04/Facebook-Clone) | JavaScript | Recreating a familiar social interface |
+| [Instagram-Clone](https://github.com/Cynet04/Instagram-Clone) | JavaScript | Feed and profile layout |
+| [Tiktok-Clone](https://github.com/Cynet04/Tiktok-Clone) | JavaScript | Vertical, scrolling video interface |
+| [LinkedIn-Clone](https://github.com/Cynet04/LinkedIn-Clone) | CSS | Professional network layout |
+| [My-Windows-Cheat-sheet](https://github.com/s4ntrx/My-Windows-Cheat-sheet) | Documentation | Windows commands for administration, auditing and incident response (a class assignment by s4ntrx) |
+
+<img src="./assets/frame.svg" alt="" width="80%">
+
+</div>
+
+
 
 <h2 align="center">Fields of study</h2>
 
